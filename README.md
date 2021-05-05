@@ -1,12 +1,22 @@
 ### Hi there 👋
 
+I’m currently learning Python for Data Science and Machine Learning, I am looking for a position as a Data Scientist Intern or a Machine Learning Intern.
+
+I’m developing studies and applications using Python Libraries such as:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- SciKit-Learn
+- TensorFlow
+- Keras
 <!--
 **gabriel7268/gabriel7268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭  ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
