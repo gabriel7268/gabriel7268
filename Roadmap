@@ -1,0 +1,29 @@
+#Machine Learning Engineer Roadmap:
+
+Statistics: (2 days)
+Statistics, Statistics for Data Science, Statistics for ML
+YouTube
+
+Linear Algebra: (2 days)
+Linear Algebra, Linear Algebra for Data Science, Linear Algebra for ML
+YouTube
+
+SQL: (1 day)
+SQL, SQL for Data Science, SQL for ML
+YouTube. 
+
+Python: (~ days)
+Python 
+YouTube, Colab...
+
+Data Science:
+Analytical pipeline, Data preparation, Pre processing, Data cleaning, feature engineering, Data Analysis, Data Visualization
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+YouTube, Coursera...
+
+Machine Learning:
+Hyperparameters tunnig, Models, Metrics, Optmizers, Loss Fuction
+Libraries: Scikit-learn, TensorFlow, Keras, Pytorch
+Kaggle, YouTube, Coursera...
+
+Deep Learning:
