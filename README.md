@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently learning Python for Data Science and Machine Learning.  
-I am looking for a position as a Data Scientist Intern or a Machine Learning Intern.
+Planning to start learning Deep Learning soon.
 
 I’m developing studies and applications using Python Libraries such as:
 - Pandas
